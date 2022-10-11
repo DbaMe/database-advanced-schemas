@@ -1,0 +1,27 @@
+{
+  "name": "database-advanced-schemas",
+  "version": "1.0.0",
+  "description": "# Working with more advanced mongoose schemas",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hammed-Waheed/database-advanced-schemas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hammed-Waheed/database-advanced-schemas/issues"
+  },
+  "homepage": "https://github.com/Hammed-Waheed/database-advanced-schemas#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.6.5"
+  }
+}
